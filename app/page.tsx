@@ -26,7 +26,7 @@ export default function HomePage() {
           <h1 className="text-6xl md:text-8xl font-bold text-amber-500 mb-4 font-serif tracking-wide">
             Feel in Saudia
           </h1>
-          <p className="text-2xl md:text-3xl text-amber-200 mb-8 font-serif italic">Burdah In Every Bite</p>
+          <p className="text-2xl md:text-3xl text-amber-200 mb-8 font-serif italic">Barakah In Every Bite</p>
           <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto">
             Experience authentic Saudi Arabian cuisine delivered to your doorstep. From traditional Mandi to delicious
             Shawarma, taste the heritage of Arabia.
